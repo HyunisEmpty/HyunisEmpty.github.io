@@ -4,22 +4,25 @@ title:  "Welcome to Jekyll!"
 date:   2022-11-17 12:43:00 +0900
 categories: jekyll update
 ---
-aasdsadin your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Git
 
-Jekyll also offers powerful support for code snippets:
+### Git 로컬 저장소 생성
+- git init
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Git 저장단위
+- git status : 현재 Git 상태 확인
+- git add example.py : example.py를 생성하고, 이를 Commit에 반영하고 싶은 경우
+- git commit -m "add example.py" : 변경사항이 반영된 new commit 생성
+- git log : commit 기록 확인하기
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Git의 Branch
+- 코드의 흐름을 분산시켜 더욱 효율적인 개발 가능!
+- git branch <branch_name> : git branch <branch 이름>을 통해 branch 생성
+- git checjout <branch_name> : 현재 작업중인 branch를 전화
+- git merge <branch_name> : 현재 작업중인 branch를 원하는 branch에 병합
+- git branch -d <branch_name> : 다음을 통해 <branch 이름>을 통해 branch 삭제
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Github
+- 지금까지 우리는 Git의 로컬 저장소에서 할 수 있는 일들을 다뤘습니다. (이제는 다른 사람과 협업을!)
+- Local 저장소를 넘어 Remote 저장소로! 원격 저장소 중 대표적인 Github
