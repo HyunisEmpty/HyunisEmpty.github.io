@@ -3,6 +3,7 @@ layout: post
 title:  "Git and Github!"
 date:   2022-11-17 12:43:00 +0900
 categories: jekyll update
+comments: true
 ---
 
 ## Git
