@@ -39,3 +39,14 @@ localhost:4000 접속
 _config.yml의 6번 라인 baseurl을 주석 처리
 
 _config.yml의 5번 라인 http를 https로 변경   
+
+### 6. 댓글 기능 추가
+[Disqus 사이트](https://jekyllrb-ko.github.io/docs/installation/windows/)
+#### Disqus 가입 & 세팅
+2. 회원 가입
+3. "I want to install Disqus on my site" 선택
+4. 사이트 정보 입력 - Website Name 기억해두기
+5. Platform중 Jekyll 선택
+6. install Instruction을 읽어본 후 Configure를 눌러 다음을 진행
+7. Website URL에 사이트 주소 입력 후 Next로 이동
+8. Comment 정책 체크 후 Complete Setup을 눌러 설정 마무리
