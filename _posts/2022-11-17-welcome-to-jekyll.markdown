@@ -1,25 +1,31 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Markdown"
 date:   2022-11-17 12:43:00 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Markdown이란?
+- 일반 텍스트로 서식이 있는 문서를 작성하는 방법
 
-Jekyll also offers powerful support for code snippets:
+### Markdown 문법 (Header)
+`#, ##, ###` 으로 제목 작성
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Markdown 문법 (Italic)
+`*...*, _..._` 으로 기울임체 작성
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Markdown 문법 (Bold)
+`**...**, __...__` 으로 강조체 작성
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Markdown 문법 (Strikethrough)
+`~...~` 으로 취소선 작성
+
+### Markdown 문법 (Unordered List)
+`-...,*...` 으로 순서없는 리스트 작성
+
+### Markdown 문법 (Ordered List)
+`1. ...` 으로 순서있는 리스트 작성
+
+### Markdown 문법
+Markdown Guide - Basic Syntax 에서 확인!
+우리는 Markdown으로 블로그를 작성할 예정

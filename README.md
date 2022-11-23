@@ -32,3 +32,10 @@ localhost:4000 접속
 
 * LoadError 발생 시 webrick 파일 설치
 `bundle add webtick`
+
+### 5. lanyon 테마 적용하기
+테마를 적용하는 과정에서 CSS가 깨지는 현상을 발견
+
+_config.yml의 6번 라인 baseurl을 주석 처리
+
+_config.yml의 5번 라인 http를 https로 변경   
