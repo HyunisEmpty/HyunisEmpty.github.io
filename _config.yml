@@ -24,3 +24,10 @@ comment:
   provider:       "disqus"
   disqus:
     shortname:    "HyunisEmpty"
+
+#analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "4307397245"
+    anonymize_ip: false
