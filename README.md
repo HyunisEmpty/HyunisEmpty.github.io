@@ -60,3 +60,6 @@ _config.yml의 5번 라인 http를 https로 변경
 3. ' Download the generated favicon ' 을 클릭해서 zip 파일을 다운받고 what's next? 밑의 코드를 다 복사해줍니다.
 4. public 폴더에 다운로드 받은 파일을 복사하여 넣는다.
 5. _includes에 새로운 파일의 head.html에 복사한 코드를 삽입
+
+### 8. Google Analytics
+**이와 관련된 
