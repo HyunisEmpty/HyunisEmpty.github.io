@@ -27,8 +27,8 @@ comment:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
+  provider               : google
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-SG4R2BC0RE"
-    anonymize_ip         : false # true, false (default)
+    tracking_id          : G-SG4R2BC0RE
+    anonymize_ip         : false
