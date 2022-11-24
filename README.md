@@ -62,4 +62,4 @@ _config.yml의 5번 라인 http를 https로 변경
 5. _includes에 새로운 파일의 head.html에 복사한 코드를 삽입
 
 ### 8. Google Analytics
-**이와 관련된 
+**이와 관련된 내용은 post에 별도 작성**
