@@ -31,4 +31,4 @@ analytics:
                           # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-SG4R2BC0RE"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : false # true, false (default)
