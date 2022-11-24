@@ -51,7 +51,7 @@ _config.yml의 5번 라인 http를 https로 변경
 7. Website URL에 사이트 주소 입력 후 Next로 이동
 8. Comment 정책 체크 후 Complete Setup을 눌러 설정 마무리
 
-### 6. favicon 추가
+### 7. favicon 추가
 1. favicon을 할 이미지를 준비
 2. 아래 사이트를 이용 이미지를 favicon으로 바꿈
 [favicon generator](https://www.favicon-generator.org/)
