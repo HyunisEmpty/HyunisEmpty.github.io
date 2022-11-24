@@ -9,7 +9,7 @@ categories: jekyll update
 구글 애널리틱스(Google Analytics, GA)는 구글에서 무료로 제공하고 있는 웹분석 서비스입니다.
 
 ### GA 회원 가입및 추적 코드 생성
-1. [Google Analytics](https://analytics.google.com/analytics/web/)에 저ㅂ속하여 회원가입을 한다.
+1. [Google Analytics](https://analytics.google.com/analytics/web/)에 접속하여 회원가입을 한다.
 2. 데이터 스트림 웹 항목에 본인 블로그 주소를 입력하여 스트림을 추가한다.
 3. 위와 같은 과정을 진행하면 **측정 ID**를 확인 가능하다.
   - Google Analytics의 경우 G-XXXXXXXX의 형식을 사용한다.
